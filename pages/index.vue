@@ -5,7 +5,6 @@
     align-center
   >
     <v-flex xs12 sm8 md6>
-      <h1>Todo App</h1>
       <p>
         <v-text-field
           :counter="10"
